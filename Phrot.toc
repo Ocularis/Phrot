@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Phrot	
+## Author: Dae + Ettan
+## Version: beta 1.0
+## Notes: Announces for prot paladoins
+## DefaultState: Enabled
+
+core.lua
